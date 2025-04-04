@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somashekar V - Portfolio</title>
+</head>
+<body style="background-color: #ffccdd; color: black; font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center;">
+
+    <!-- Header Section -->
+    <header style="background-color: black; color: white; padding: 20px;">
+        <h1>Somashekar V</h1>
+        <h3>Government Arts And Science College</h3>
+        <h4>BSc. Computer Science - Semester 4</h4>
+    </header>
+
+    <!-- About Me Section -->
+    <section style="padding: 20px;">
+        <h2 style="color: black;">About Me</h2>
+        <p style="font-size: 18px; max-width: 80%; margin: auto;">I'm Somashekar. From THalavadi, I aced my school years at Governemnt Model Higher Secondary School, topping my 12th grade. Now, I'm diving headfirst into my passion: AI. I'm currently in my 2nd year of BSc. Computer Science, and I'm loving every minute.</p>
+    </section>
+
+    <!-- Education Section -->
+    <section style="background-color: black; color: white; padding: 20px;">
+        <h2>Education</h2>
+        <p><strong>Degree:</strong> BSc. Computer Science</p>
+        <p><strong>College:</strong> Government Arts And Science College</P>
+        <p><strong>Semester:</strong> 4</p>
+        <p><strong>Achievements:</strong> Topped 12th Grade at Government Model Higher Secondary School</p>
+    </section>
+
+    <!-- Skills Section -->
+    <section style="padding: 20px;">
+        <h2 style="color: black;">Skills</h2>
+        <table style="margin: auto; border-spacing: 10px;">
+            <tr>
+                <td style="padding: 10px; background-color: black; color: white; border-radius: 5px;">HTML</td>
+                <td style="padding: 10px; background-color: black; color: white; border-radius: 5px;">CSS</td>
+                <td style="padding: 10px; background-color: black; color: white; border-radius: 5px;">GitHub</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; background-color: black; color: white; border-radius: 5px;">Java</td>
+                <td style="padding: 10px; background-color: black; color: white; border-radius: 5px;">Python</td>
+                <td style="padding: 10px; background-color: black; color: white; border-radius: 5px;">C</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; background-color: black; color: white; border-radius: 5px;">C++</td>
+                <td style="padding: 10px; background-color: black; color: white; border-radius: 5px;">Data Science</td>
+            </tr>
+        </table>
+    </section>
+
+    <!-- Projects Section -->
+    <section style="background-color: black; color: white; padding: 20px;">
+        <h2>Projects</h2>
+        <p><strong>Capstone Phase 1 Project:</strong> Online Drowsiness Detection using Machine Learning</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section style="padding: 20px;">
+        <h2 style="color: black;">Contact</h2>
+        <p>Email: <a href="mailto:v.somashekar33@gmail.com" style="color: black; font-weight: bold;">v.somashekar33@gmail.com</a></p>
+    </section>
+
+    <!-- Footer -->
+    <footer style="background-color: black; color: white; padding: 10px; margin-top: 20px;">
+        <p>© 2025 Somashekar V | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
